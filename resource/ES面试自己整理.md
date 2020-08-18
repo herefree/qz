@@ -57,8 +57,8 @@ https://zhuanlan.zhihu.com/p/91604790
 ```
 
 6.ES检索策略
-
-
+6.5Elasticsearch写入过程
+https://zhuanlan.zhihu.com/p/94915597
 
 7.ES选主流程
 
