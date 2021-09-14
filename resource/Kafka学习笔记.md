@@ -36,6 +36,6 @@ advertised.listeners=PLAINTEXT://ip:9092
 #5.生产数据
 ./bin/kafka-console-producer.sh --broker-list 114.116.66.89:9100 --topic first
 #6.消费数据
-./bin/kafka-console-consumer.sh --bootstrap-server 114.116.66.89:9100 --topic first --from-beginning
+./bin/kafka-console-consumer.sh --bootstrap-server 114.116.66.89:9092 --topic first --from-beginning
 ```
 
